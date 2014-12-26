@@ -1,0 +1,6 @@
+F:\24_12_2014\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+F:\24_12_2014\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+F:\24_12_2014\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+F:\24_12_2014\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+F:\24_12_2014\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+F:\24_12_2014\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
